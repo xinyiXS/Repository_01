@@ -4,7 +4,7 @@ public class news {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("xs");
+		System.out.println("xs111");
 
 	}
 
